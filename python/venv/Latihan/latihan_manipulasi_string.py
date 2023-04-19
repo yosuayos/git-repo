@@ -1,0 +1,5 @@
+nim = input("Masukan NIM: ")
+kelas = input("Masukan Kelas: ")
+ipk = input("Masukan IPK: ")
+murid = (nim+", "+kelas+", "+ipk)
+print(murid)
