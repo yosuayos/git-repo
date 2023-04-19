@@ -15,7 +15,7 @@
 # print("{:<10}{:<10}{:<10}".format(nama,negara,nilai))
 
 #manipulasi string
-namalengkap = input("masukan nama anda: ")
+namalengkap = input("masukan nama anda sekarang: ")
 alamat = input("masukan alamat anda: ")
 kodepos = input("masukan kodepos anda: ")
 datapengirim = (namalengkap+", "+alamat+", "+kodepos)
