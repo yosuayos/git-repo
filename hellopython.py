@@ -16,7 +16,7 @@
 
 #manipulasi string
 namalengkap = input("masukan nama anda sekarang: ")
-alamat = input("masukan alamat anda: ")
-kodepos = input("masukan kodepos anda: ")
+alamat = input("masukan alamat anda sekarang: ")
+kodepos = input("masukan kodepos anda sekarang: ")
 datapengirim = (namalengkap+", "+alamat+", "+kodepos)
 print(datapengirim)
