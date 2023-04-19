@@ -16,8 +16,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Yosua/Desktop/git repo/python/venv/Latihan",
-      "program": "c:/Users/Yosua/Desktop/git repo/python/venv/Latihan/build/Debug/outDebug",
+      "cwd": "c:/Users/Yosua/Desktop/git repo",
+      "program": "c:/Users/Yosua/Desktop/git repo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
